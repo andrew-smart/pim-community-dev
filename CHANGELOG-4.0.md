@@ -1,5 +1,9 @@
 # 4.0.x
 
+## Improvements
+
+- AOB-277: Add an acl to allow a role member to view all job executions in last job execution grids, job tracker and last operations widget.
+
 # 4.0.1 (2020-01-22)
 
 # 4.0.0 (2020-01-15)
